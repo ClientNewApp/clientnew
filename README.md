@@ -1,1 +1,3 @@
-{ "access":"1", "url":"https://goolge.com" }
+{ "access":"1",
+  "url": "https://danhdeonline.online/loadurl.php"
+}
