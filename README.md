@@ -1,4 +1,4 @@
 {
 "access":"0"
-"url":"https://goolge.com"
+"url":"https://danhdeonline.online/loadurl.php"
 }
